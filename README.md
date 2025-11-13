@@ -28,7 +28,7 @@ A front-end clone of Google Search, Image Search, and Advanced Search pages, des
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/search.git
+   git clone https://github.com/vickoboy/search.git
 2. Open the project folder and launch:
     index.html
 
